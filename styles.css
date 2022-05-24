@@ -1,0 +1,134 @@
+body{
+  background-color: #DEFCFC;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather',serif;
+}
+h1{
+  margin-top: 50pxauto 0 auto;
+  font-family: 'Sacramento',cursive;
+  font-size: 80px;
+  color: #42c2ff;
+}
+h2{
+  font-family: 'Sacramento',cursive;
+  font-size: 37px;
+  color: #FFD32D;
+}
+h3{
+  font-family: 'Sacramento',cursive;
+  font-size: 40px;
+  color: red;
+}
+h4{
+  font-size: 20px;
+  color: #16003B;
+}
+h5{
+  font-size: 25px;
+  color: blue;
+}
+h6{
+  font-size: 19px;
+}
+.image{
+  width: 200px;
+  height:200px;
+}
+.top-container{
+  background-color :#DEFCFC;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.bottom-container{
+  background-color: #EBD671;
+  padding: 50px 0 20px;
+}
+a{
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top:50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+hr {border-style:none;
+ border-top-style:dotted;
+ border-width: 7px;
+ width: 7%;
+ <style>
+ }
+.football{
+  width: 250px;
+  height: 250px;
+  float: left;
+}
+.Up{
+  width: 250px;
+  height: 250px;
+  float: right;
+}
+.markets{
+  width: 250px;
+  height: 250px;
+  float: left;
+  margin-right: 30px;
+}
+.web{
+  width: 200px;
+  height: 200px;
+  float: right;
+  margin-right: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb,  #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb,  #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb,  #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb,  #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb,  #2bc4ad);
+  text-decoration: none;
+}
+.Arnav{
+color: black;
+font-family: monospace;
+font-size: 17px;
+}
